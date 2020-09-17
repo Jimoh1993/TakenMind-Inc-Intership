@@ -1,0 +1,1 @@
+# TakenMind-Inc-Intership
