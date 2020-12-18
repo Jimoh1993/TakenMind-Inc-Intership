@@ -3,4 +3,7 @@ TakenMind Global Internship Program is recognized under United Nations Sustainab
 TakenMind (powered by United Nations SDG Program) is offering a Global Internship in Data Analytics and Management.
 Analytics: Handling the final project requires data analytics skill in Python Programming Language. You will learn Python and Data Analytics with Python during the course of the program.
 Data Visualization: At final stages of project, you will learn to use data visualization techniques to deliver insights from datasets.
-The main beneficiaries of the program include second world and third world countries. The Program is widespread across Asia and Africa https://takenmind.com/ | https://sustainabledevelopment.un.org/partnership/?p=26437
+The main beneficiaries of the program include second world and third world countries. The Program is widespread across Asia and Africa. 
+Global Internship Website: https://takenmind.com/ 
+Udemy & TakenMind Inc BootCamp Website: https://www.udemy.com/course/learn-data-analytics-complete-bootcamp-by-takenmind/ 
+TakenMind Inc & United Nations SDG#26437 Partnership Website: https://sustainabledevelopment.un.org/partnership/?p=26437
